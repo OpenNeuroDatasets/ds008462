@@ -1,0 +1,45 @@
+data:
+  attributes:
+    types:
+      resourceTypeGeneral: Dataset
+    contributors:
+      - name: Elena Hayday
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 1
+      - name: Sara Inati
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 2
+      - name: Antonio Ivano Triggiani
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 3
+      - name: Afnan Jawata
+        givenName: ''
+        familyName: ''
+        nameType: Personal
+        nameIdentifiers: []
+        contributorType: Researcher
+        order: 4
+    creators:
+      - name: Elena Hayday
+        nameType: Personal
+      - name: Sara Inati
+        nameType: Personal
+      - name: Antonio Ivano Triggiani
+        nameType: Personal
+      - name: Afnan Jawata
+        nameType: Personal
+    descriptions:
+      - description: N/A
+        descriptionType: Abstract
