@@ -17,20 +17,13 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 2
-      - name: Antonio Ivano Triggiani
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: []
-        contributorType: Researcher
-        order: 3
       - name: Afnan Jawata
         givenName: ''
         familyName: ''
         nameType: Personal
         nameIdentifiers: []
         contributorType: Researcher
-        order: 4
+        order: 3
       - name: Jeff Stout
         givenName: ''
         familyName: ''
@@ -40,13 +33,11 @@ data:
             nameIdentifierScheme: ORCID
             schemeUri: https://orcid.org
         contributorType: Researcher
-        order: 5
+        order: 4
     creators:
       - name: Elena Hayday
         nameType: Personal
       - name: Sara Inati
-        nameType: Personal
-      - name: Antonio Ivano Triggiani
         nameType: Personal
       - name: Afnan Jawata
         nameType: Personal
