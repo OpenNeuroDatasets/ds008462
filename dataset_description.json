@@ -1,18 +1,19 @@
 {
-  "Name": "Elena Resting-State MEG Pilot Dataset",
-  "BIDSVersion": "1.9.0",
-  "DatasetType": "raw",
-  "Authors": [
-    "Elena Hayday",
-    "Sara Inati",
-    "Antonio Ivano Triggiani",
-    "Afnan Jawata"
-  ],
-  "GeneratedBy": [
-    {
-      "Name": "MNE-BIDS",
-      "Version": "0.18.0",
-      "CodeURL": "https://mne.tools/mne-bids/"
-    }
-  ]
+    "Name": "Drug-Resistant Epilepsy Resting-State MEG-MRI Dataset",
+    "BIDSVersion": "1.9.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Elena Hayday",
+        "Sara Inati",
+        "Antonio Ivano Triggiani",
+        "Afnan Jawata"
+    ],
+    "GeneratedBy": [
+        {
+            "Name": "MNE-BIDS",
+            "Version": "0.18.0",
+            "CodeURL": "https://mne.tools/mne-bids/"
+        }
+    ],
+    "License": "CC0"
 }
