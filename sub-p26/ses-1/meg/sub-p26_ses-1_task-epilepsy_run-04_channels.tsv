@@ -1,4 +1,4 @@
-﻿name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
+name	type	units	low_cutoff	high_cutoff	description	sampling_frequency	status	status_description
 UPPT001	TRIG	V	0.0	600.0	Trigger	1200.0	good	n/a
 SCLK01	MISC	V	0.0	600.0	Miscellaneous	1200.0	good	n/a
 BG1	MEGREFMAG	T	0.0	600.0	Magnetometer Reference	1200.0	good	n/a
