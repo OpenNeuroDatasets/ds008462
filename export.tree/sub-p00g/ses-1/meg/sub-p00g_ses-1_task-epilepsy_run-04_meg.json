@@ -1,0 +1,26 @@
+{
+    "TaskName": "epilepsy",
+    "Manufacturer": "CTF",
+    "PowerLineFrequency": 60.0,
+    "SamplingFrequency": 600.0,
+    "SoftwareFilters": {
+        "SpatialCompensation": {
+            "GradientOrder": 3
+        }
+    },
+    "RecordingDuration": 914.9983333333333,
+    "RecordingType": "continuous",
+    "DewarPosition": "n/a",
+    "DigitizedLandmarks": true,
+    "DigitizedHeadPoints": false,
+    "MEGChannelCount": 274,
+    "MEGREFChannelCount": 28,
+    "ContinuousHeadLocalization": false,
+    "HeadCoilFrequency": [],
+    "EEGChannelCount": 21,
+    "EOGChannelCount": 0,
+    "ECGChannelCount": 0,
+    "EMGChannelCount": 0,
+    "MiscChannelCount": 3,
+    "TriggerChannelCount": 1
+}
