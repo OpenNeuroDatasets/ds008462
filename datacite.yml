@@ -31,16 +31,6 @@ data:
         nameIdentifiers: []
         contributorType: Researcher
         order: 4
-      - name: Jeff Stout
-        givenName: ''
-        familyName: ''
-        nameType: Personal
-        nameIdentifiers: &ref_0
-          - nameIdentifier: https://orcid.org/0000-0002-6802-9534
-            nameIdentifierScheme: ORCID
-            schemeUri: https://orcid.org
-        contributorType: Researcher
-        order: 5
     creators:
       - name: Elena Hayday
         nameType: Personal
@@ -50,9 +40,6 @@ data:
         nameType: Personal
       - name: Afnan Jawata
         nameType: Personal
-      - name: Jeff Stout
-        nameType: Personal
-        nameIdentifiers: *ref_0
     descriptions:
       - description: N/A
         descriptionType: Abstract
