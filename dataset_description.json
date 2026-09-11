@@ -15,6 +15,6 @@
             "CodeURL": "https://mne.tools/mne-bids/"
         }
     ],
-    "DatasetDOI": "doi:10.18112/openneuro.ds008462.v1.0.2",
+    "DatasetDOI": "doi:10.18112/openneuro.ds008462.v1.0.3",
     "License": "CC0"
 }
