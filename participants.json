@@ -1,32 +1,67 @@
-{
-    "participant_id": {
-        "Description": "Unique participant identifier"
-    },
-    "age": {
-        "Description": "Age of the participant at time of testing",
-        "Units": "years"
-    },
-    "sex": {
-        "Description": "Biological sex of the participant",
-        "Levels": {
-            "F": "female",
-            "M": "male"
-        }
-    },
-    "hand": {
-        "Description": "Handedness of the participant",
-        "Levels": {
-            "R": "right",
-            "L": "left",
-            "A": "ambidextrous"
-        }
-    },
-    "weight": {
-        "Description": "Body weight of the participant",
-        "Units": "kg"
-    },
-    "height": {
-        "Description": "Body height of the participant",
-        "Units": "m"
-    }
-}
+{\rtf1\ansi\ansicpg1252\cocoartf2870
+\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
+{\colortbl;\red255\green255\blue255;}
+{\*\expandedcolortbl;;}
+\margl1440\margr1440\vieww11520\viewh8400\viewkind0
+\pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
+
+\f0\fs24 \cf0 \{\
+  "participant_id": \{\
+    "Description": "Unique participant identifier"\
+  \},\
+  "sex": \{\
+    "Description": "Biological sex",\
+    "Levels": \{\
+      "M": "Male",\
+      "F": "Female"\
+    \}\
+  \},\
+  "age_at_meg": \{\
+    "Description": "Age at MEG scan",\
+    "Units": "years"\
+  \},\
+  "tle_vs_etle": \{\
+    "Description": "Epilepsy classification",\
+    "Levels": \{\
+      "TLE": "temporal lobe epilepsy[cite: 3]",\
+      "ETLE": "extratemporal lobe epilepsy[cite: 3]"\
+    \}\
+  \},\
+  "age_at_onset": \{\
+    "Description": "Age at seizure onset",\
+    "Units": "years"\
+  \},\
+  "duration": \{\
+    "Description": "Duration of epilepsy",\
+    "Units": "years"\
+  \},\
+  "lesional": \{\
+    "Description": "Lesional status on MRI",\
+    "Levels": \{\
+      "Y": "Yes",\
+      "N": "No"\
+    \}\
+  \},\
+  "mri_findings": \{\
+    "Description": "Specific MRI findings or lesion description (Abbreviations: L=left[cite: 3], R=right[cite: 3], B=bilateral[cite: 3], F=frontal[cite: 3], P=parietal[cite: 3], T=temporal[cite: 3], MTS=mesial temporal sclerosis[cite: 3], FCD=focal cortical dysplasia[cite: 3], PMG=polymicrogyria[cite: 3])"\
+  \},\
+  "brainsight_used": \{\
+    "Description": "Whether Brainsight neuronavigation was used",\
+    "Levels": \{\
+      "Y": "Yes",\
+      "N": "No"\
+    \}\
+  \},\
+  "interictal_eeg": \{\
+    "Description": "Interictal EEG findings localization (Abbreviations: L=left[cite: 3], R=right[cite: 3], B=bilateral[cite: 3], F=frontal[cite: 3], P=parietal[cite: 3], T=temporal[cite: 3], FP=frontoparietal[cite: 3], FT=frontotemporal[cite: 3], PO=parietooccipital[cite: 3], TP=temporoparietal[cite: 3])"\
+  \},\
+  "location_of_resection": \{\
+    "Description": "Anatomical location of surgical resection (Abbreviations: L=left[cite: 3], R=right[cite: 3], F=frontal[cite: 3], P=parietal[cite: 3], T=temporal[cite: 3], PO=parietooccipital[cite: 3], ATL=anterior temporal lobe)"\
+  \},\
+  "length_from_followup": \{\
+    "Description": "Length from follow-up"\
+  \},\
+  "engel_outcome": \{\
+    "Description": "Engel surgical outcome score or surgical status"\
+  \}\
+\}}
