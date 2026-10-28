@@ -36,7 +36,7 @@
     }
   },
   "mri_findings": {
-    "Description": "Specific MRI findings or lesion description. Abbreviations: L=left, R=right, B=bilateral, F=frontal, P=parietal, T=temporal, MTS=mesial temporal sclerosis, FCD=focal cortical dysplasia, PMG=polymicrogyria"
+    "Description": "Specific MRI findings or lesion description"
   },
   "brainsight_used": {
     "Description": "Whether Brainsight neuronavigation was used",
@@ -46,10 +46,10 @@
     }
   },
   "interictal_eeg": {
-    "Description": "Interictal EEG findings localization. Abbreviations: L=left, R=right, B=bilateral, F=frontal, P=parietal, T=temporal, FP=frontoparietal, FT=frontotemporal, PO=parietooccipital, TP=temporoparietal"
+    "Description": "Interictal EEG findings localization"
   },
   "location_of_resection": {
-    "Description": "Anatomical location of surgical resection. Abbreviations: L=left, R=right, F=frontal, P=parietal, T=temporal, PO=parietooccipital, ATL=anterior temporal lobe"
+    "Description": "Anatomical location of surgical resection"
   },
   "length_from_followup": {
     "Description": "Length from follow-up"
