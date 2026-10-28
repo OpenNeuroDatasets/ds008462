@@ -3,7 +3,7 @@ sub-p00g	M	4	ETLE	3	1	N	None	N	R TPO	RPO	12	1a
 sub-p00b	M	6	ETLE	3	3	N	Normal	N	Multifocal (BF, LT)	RF	12	1a
 sub-p224	F	44	TLE	12	32	N	LMT Gliosis	Y	LT	LT	24	1b
 sub-p00p	M	14	TLE	6	8	Y	R MTS; polymicrogyria	N	R FP	RT	12	1a
-sub-p0bs	M	19	n/a	13	6	N	RT gliosis	N	RT	RT	33	1a
+sub-p0bs	M	19	ETLE	13	6	N	RT gliosis	N	RT	RT	33	1a
 sub-p00q	M	21	ETLE	7	14	N	RF FCD	N	RF/T	RF	32	1a
 sub-p85	F	21	ETLE	13	8	Y	RP Encephalomalacia	N	RFT	RP	60	1c
 sub-p43	M	23	TLE	16	7	Y	RT lesion	N	RT	RT	25	1a
