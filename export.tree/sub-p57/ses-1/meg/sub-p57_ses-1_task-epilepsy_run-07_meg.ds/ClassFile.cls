@@ -1,0 +1,1 @@
+../../../../.git/annex/objects/ff/jp/SHA256E-s237--6cd5226d02a1084fbe151f719b6808d1568d8023ba9ff8dc717b5a95e1dcc32e.cls/SHA256E-s237--6cd5226d02a1084fbe151f719b6808d1568d8023ba9ff8dc717b5a95e1dcc32e.cls
