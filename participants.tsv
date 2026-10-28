@@ -1,39 +1,57 @@
-participant_id	sex	age_at_meg	tle_vs_etle	age_at_onset	duration	lesional	mri_findings	brainsight_used	interictal_eeg	location_of_resection	length_from_followup	engel_outcome
-sub-p00g	M	4	ETLE	3	1	N	None	N	R TPO	RPO	12	1a
-sub-p00b	M	6	ETLE	3	3	N	Normal	N	Multifocal (BF, LT)	RF	12	1a
-sub-p224	F	44	TLE	12	32	N	LMT Gliosis	Y	LT	LT	24	1b
-sub-p00p	M	14	TLE	6	8	Y	R MTS; polymicrogyria	N	R FP	RT	12	1a
-sub-p0bs	M	19	n/a	13	6	N	RT gliosis	N	RT	RT	33	1a
-sub-p00q	M	21	ETLE	7	14	N	RF FCD	N	RF/T	RF	32	1a
-sub-p85	F	21	ETLE	13	8	Y	RP Encephalomalacia	N	RFT	RP	60	1c
-sub-p43	M	23	TLE	16	7	Y	RT lesion	N	RT	RT	25	1a
-sub-p00ad	M	25	TLE	21	4	Y	L MTS	N	Not done	LT	18	1a
-sub-p57	M	27	TLE	22	5	Y	LT glioma	N	LFT	LT	12	1a
-sub-p28	M	28	TLE	13	15	N	R MTS	N	LT	LT	66	1a
-sub-p00f	F	46	TLE	9	37	Y	L MTS	N	LT	LT	28	1a
-sub-p00j	F	11	ETLE	6	5	N	R MTS	N	LTP	LTP	12	2b
-sub-p00as	M	16	ETTLE	6	10	N	R MTS	N	BO	RPO	12	2b
-sub-p61	M	33	TLE	6	27	Y	L MTS	N	LT	L ATL	42	2b
-sub-p119	M	37	TLE	19	18	Y	L MTS	N	LT	LT	25	2d
-sub-p00l	M	8	TLE	6	2	N	Normal	N	LT	LT	12	3a
-sub-p00ac	M	31	TLE	20	11	Y	R MTS; RP encephalomalacia	N	BT	RT	19	3a
-sub-p130	F	34	ETLE	9	25	Y	R MTS	Y	LF	RTP	24	3a
-sub-p34	F	40	ETLE	8	32	Y	RF FCD	N	RF	RF	24	3a
-sub-p00s	F	11	ETLE	7	4	Y	LC lesion; LF	N	BF	LF	12	4
-sub-p295	M	21	ETLE	20	1	N	Normal	Y	BFC	n/a	n/a	n/a
-sub-p238	M	10	ETLE	3	7	N	Normal	Y	LCT	n/a	n/a	n/a
-sub-p309	F	21	TLE	11	10	N	Normal	Y	RT	n/a	n/a	n/a
-sub-p121	F	23	TLE	13	10	N	Normal	N	BP	n/a	n/a	n/a
-sub-p255	M	29	ETLE	12	17	N	Normal	Y	n/a	n/a	n/a	n/a
-sub-p311	F	54	TLE	7	47	Y	R MTS	Y	RFT	n/a	n/a	n/a
-sub-p72	M	10	ETLE	8	2	N	Normal	N	Not done	n/a	n/a	n/a
-sub-p242	F	16	ETLE	9	7	N	Normal	Y	Midline/Central	n/a	n/a	n/a
-sub-p114	F	21	ETLE	3	18	Y	RP FCD	N	Diffuse? C, P, T	n/a	n/a	n/a
-sub-p198	F	27	ETLE	7	20	Y	LP encephalomalacia	N	RF	n/a	n/a	n/a
-sub-p308	M	27	TLE	21	6	Y	RT FCD	Y	BT	n/a	n/a	n/a
-sub-p26	F	31	TLE	25	6	Y	BT hyperintensity	N	BT	n/a	n/a	n/a
-sub-p129	F	32	ETLE	29	3	N	Normal	N	LFT	n/a	n/a	n/a
-sub-p288	M	34	TLE	16	18	N	Normal	Y	LT	n/a	n/a	n/a
-sub-p307	M	39	TLE	1	38	Y	L MTS	Y	LT	n/a	n/a	n/a
-sub-p105	M	44	ETLE	18	26	Y	Abnormal R hippocampus	N	LT	n/a	n/a	n/a
-sub-p274	M	51	ETLE	24	27	Y	L schizencephaly	Y	LT	n/a	n/a	n/a
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "sex": {
+    "Description": "Biological sex",
+    "Levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "age_at_meg": {
+    "Description": "Age at MEG scan",
+    "Units": "years"
+  },
+  "tle_vs_etle": {
+    "Description": "Epilepsy classification"
+  },
+  "age_at_onset": {
+    "Description": "Age at seizure onset",
+    "Units": "years"
+  },
+  "duration": {
+    "Description": "Duration of epilepsy",
+    "Units": "years"
+  },
+  "lesional": {
+    "Description": "Lesional status on MRI",
+    "Levels": {
+      "Y": "Yes",
+      "N": "No"
+    }
+  },
+  "mri_findings": {
+    "Description": "Specific MRI findings or lesion description"
+  },
+  "brainsight_used": {
+    "Description": "Whether Brainsight neuronavigation was used",
+    "Levels": {
+      "Y": "Yes",
+      "N": "No"
+    }
+  },
+  "interictal_eeg": {
+    "Description": "Interictal EEG findings localization"
+  },
+  "location_of_resection": {
+    "Description": "Anatomical location of surgical resection"
+  },
+  "length_from_followup": {
+    "Description": "Length from follow-up",
+    "Units": "months"
+  },
+  "engel_outcome": {
+    "Description": "Engel surgical outcome classification (e.g. 1a, 1b, 2b, 4, or n/a if no surgery)"
+  }
+}
