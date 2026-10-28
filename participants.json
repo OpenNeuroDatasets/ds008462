@@ -14,11 +14,7 @@
     "Units": "years"
   },
   "tle_vs_etle": {
-    "Description": "Epilepsy classification",
-    "Levels": {
-      "TLE": "temporal lobe epilepsy",
-      "ETLE": "extratemporal lobe epilepsy"
-    }
+    "Description": "Epilepsy classification"
   },
   "age_at_onset": {
     "Description": "Age at seizure onset",
@@ -52,9 +48,10 @@
     "Description": "Anatomical location of surgical resection"
   },
   "length_from_followup": {
-    "Description": "Length from follow-up"
+    "Description": "Length from follow-up",
+    "Units": "months"
   },
   "engel_outcome": {
-    "Description": "Engel surgical outcome score or surgical status"
+    "Description": "Engel surgical outcome classification"
   }
 }
