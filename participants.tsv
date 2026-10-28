@@ -20,20 +20,20 @@ sub-p00ac	M	31	TLE	20	11	Y	R MTS; RP encephalomalacia	N	BT	RT	19	3a
 sub-p130	F	34	ETLE	9	25	Y	R MTS	Y	LF	RTP	24	3a
 sub-p34	F	40	ETLE	8	32	Y	RF FCD	N	RF	RF	24	3a
 sub-p00s	F	11	ETLE	7	4	Y	LC lesion; LF	N	BF	LF	12	4
-sub-p295	M	21	ETLE	20	1	N	Normal	Y	BFC	None	n/a	Implant Not Resected
-sub-p238	M	10	ETLE	3	7	N	Normal	Y	LCT	None	n/a	No Surgery
-sub-p309	F	21	TLE	11	10	N	Normal	Y	RT	None	n/a	No Surgery
-sub-p121	F	23	TLE	13	10	N	Normal	N	BP	None	n/a	No Surgery
-sub-p255	M	29	ETLE	12	17	N	Normal	Y	None	None	n/a	No Surgery
-sub-p311	F	54	TLE	7	47	Y	R MTS	Y	RFT	None	n/a	No Surgery
-sub-p72	M	10	ETLE	8	2	N	Normal	N	Not done	None	n/a	None
-sub-p242	F	16	ETLE	9	7	N	Normal	Y	Midline/Central	None	n/a	None
-sub-p114	F	21	ETLE	3	18	Y	RP FCD	N	Diffuse? C, P, T	None	n/a	None
-sub-p198	F	27	ETLE	7	20	Y	LP encephalomalacia	N	RF	None	n/a	None
-sub-p308	M	27	TLE	21	6	Y	RT FCD	Y	BT	None	n/a	None
-sub-p26	F	31	TLE	25	6	Y	BT hyperintensity	N	BT	None	n/a	None
-sub-p129	F	32	ETLE	29	3	N	Normal	N	LFT	None	n/a	None
-sub-p288	M	34	TLE	16	18	N	Normal	Y	LT	None	n/a	None
-sub-p307	M	39	TLE	1	38	Y	L MTS	Y	LT	None	n/a	None
-sub-p105	M	44	ETLE	18	26	Y	Abnormal R hippocampus	N	LT	None	n/a	None
-sub-p274	M	51	ETLE	24	27	Y	L schizencephaly	Y	LT	None	n/a	None
+sub-p295	M	21	ETLE	20	1	N	Normal	Y	BFC	n/a	n/a	n/a
+sub-p238	M	10	ETLE	3	7	N	Normal	Y	LCT	n/a	n/a	n/a
+sub-p309	F	21	TLE	11	10	N	Normal	Y	RT	n/a	n/a	n/a
+sub-p121	F	23	TLE	13	10	N	Normal	N	BP	n/a	n/a	n/a
+sub-p255	M	29	ETLE	12	17	N	Normal	Y	n/a	n/a	n/a	n/a
+sub-p311	F	54	TLE	7	47	Y	R MTS	Y	RFT	n/a	n/a	n/a
+sub-p72	M	10	ETLE	8	2	N	Normal	N	Not done	n/a	n/a	n/a
+sub-p242	F	16	ETLE	9	7	N	Normal	Y	Midline/Central	n/a	n/a	n/a
+sub-p114	F	21	ETLE	3	18	Y	RP FCD	N	Diffuse? C, P, T	n/a	n/a	n/a
+sub-p198	F	27	ETLE	7	20	Y	LP encephalomalacia	N	RF	n/a	n/a	n/a
+sub-p308	M	27	TLE	21	6	Y	RT FCD	Y	BT	n/a	n/a	n/a
+sub-p26	F	31	TLE	25	6	Y	BT hyperintensity	N	BT	n/a	n/a	n/a
+sub-p129	F	32	ETLE	29	3	N	Normal	N	LFT	n/a	n/a	n/a
+sub-p288	M	34	TLE	16	18	N	Normal	Y	LT	n/a	n/a	n/a
+sub-p307	M	39	TLE	1	38	Y	L MTS	Y	LT	n/a	n/a	n/a
+sub-p105	M	44	ETLE	18	26	Y	Abnormal R hippocampus	N	LT	n/a	n/a	n/a
+sub-p274	M	51	ETLE	24	27	Y	L schizencephaly	Y	LT	n/a	n/a	n/a
