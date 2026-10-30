@@ -1,5 +1,5 @@
 participant_id	sex	age_at_meg	tle_vs_etle	age_at_onset	duration	lesional	mri_findings	brainsight_used	interictal_eeg	location_of_resection	length_from_followup	engel_outcome
-sub-p00g	M	4	ETLE	3	1	N	None	N	R TPO	RPO	12	1a
+sub-p00g	M	4	ETLE	3	1	N		N	R TPO	RPO	12	1a
 sub-p00b	M	6	ETLE	3	3	N	Normal	N	Multifocal (BF, LT)	RF	12	1a
 sub-p224	F	44	TLE	12	32	N	LMT Gliosis	Y	LT	LT	24	1b
 sub-p00p	M	14	TLE	6	8	Y	R MTS; polymicrogyria	N	R FP	RT	12	1a
