@@ -1,0 +1,57 @@
+{
+  "participant_id": {
+    "Description": "Unique participant identifier"
+  },
+  "sex": {
+    "Description": "Biological sex",
+    "Levels": {
+      "M": "Male",
+      "F": "Female"
+    }
+  },
+  "age_at_meg": {
+    "Description": "Age at MEG scan",
+    "Units": "years"
+  },
+  "tle_vs_etle": {
+    "Description": "Epilepsy classification"
+  },
+  "age_at_onset": {
+    "Description": "Age at seizure onset",
+    "Units": "years"
+  },
+  "duration": {
+    "Description": "Duration of epilepsy",
+    "Units": "years"
+  },
+  "lesional": {
+    "Description": "Lesional status on MRI",
+    "Levels": {
+      "Y": "Yes",
+      "N": "No"
+    }
+  },
+  "mri_findings": {
+    "Description": "Specific MRI findings or lesion description"
+  },
+  "brainsight_used": {
+    "Description": "Whether Brainsight neuronavigation was used",
+    "Levels": {
+      "Y": "Yes",
+      "N": "No"
+    }
+  },
+  "interictal_eeg": {
+    "Description": "Interictal EEG findings localization"
+  },
+  "location_of_resection": {
+    "Description": "Anatomical location of surgical resection"
+  },
+  "length_from_followup": {
+    "Description": "Length from follow-up",
+    "Units": "months"
+  },
+  "engel_outcome": {
+    "Description": "Engel surgical outcome classification"
+  }
+}
